@@ -1,10 +1,6 @@
 Greetings👋, I'm kavyasri
 Java Full Stack  Developer | Ui/Ux Designer
-I'm Java Full Stack  Developer . I am currently pursuing  B.tech , during 
-
-🚀 More than 3 years of experience creating innovative and user-friendly applications
-💼 Currently working at Algoace as a Full Stack Hybrid App Developer using React Native and AWS services
-🌱 Continuously learning and exploring new technologies
+I'm Java Full Stack  Developer . I am currently pursuing  B.tech .
 🎓 Visit my Portfolio to learn more about my work
 Technologies and Tools:
 Frontend Technologies

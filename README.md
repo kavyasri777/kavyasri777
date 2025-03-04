@@ -1,16 +1,23 @@
-## Hi there 👋
+Greetings👋, I'm kavyasri
+Java Full Stack  Developer | Ui/Ux Designer
+I'm Java Full Stack  Developer . I am currently pursuing  B.tech , during 
 
-<!--
-**kavyasri777/kavyasri777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 More than 3 years of experience creating innovative and user-friendly applications
+💼 Currently working at Algoace as a Full Stack Hybrid App Developer using React Native and AWS services
+🌱 Continuously learning and exploring new technologies
+🎓 Visit my Portfolio to learn more about my work
+Technologies and Tools:
+Frontend Technologies
+HTML, CSS, JavaScript – Basic building blocks of web pages.
+React.js / Angular – For modern, interactive web applications.
+Bootstrap  – For responsive and mobile-friendly designs.
+🔹 Backend Technologies (Java & Frameworks)
+Core Java – OOPs, Collections, Multithreading, Exception Handling.
+Spring Framework (Spring Boot, Spring MVC,  Spring Data JPA) – To build scalable and secure applications.
+Hibernate / JPA – ORM tool to interact with databases.
+🔹 Database Management
+SQL (MySQL, Oracle, SQL Server) – For relational database management.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+email:srikavya14085@gmail.com
+linkedin:https://www.linkedin.com/in/kavya-sri-a617b7252/

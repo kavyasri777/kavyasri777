@@ -18,12 +18,26 @@ Frontend Technologies:
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
 
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual)
-🔹 Backend Technologies (Java & Frameworks)
-Core Java – OOPs, Collections, Multithreading, Exception Handling.
-Spring Framework (Spring Boot, Spring MVC,  Spring Data JPA) – To build scalable and secure applications.
-Hibernate / JPA – ORM tool to interact with databases.
-🔹 Database Management
-sqlSQL (MySQL, Oracle, SQL Server) – For relational database management.
+## 🖥️ Backend Technologies (Java & Frameworks)
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+
+- **Core Java** – OOPs, Collections, Multithreading, Exception Handling.  
+- **Spring Framework** – (Spring Boot, Spring MVC, Spring Data JPA) – To build scalable and secure applications.  
+- **Hibernate / JPA** – ORM tool to interact with databases.  
+
+## 🔹 Database Management
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+- **SQL** – MySQL, Oracle, SQL Server.  
+.
 
 Connect with me:
 email: ||

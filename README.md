@@ -26,6 +26,9 @@ Hibernate / JPA – ORM tool to interact with databases.
 sqlSQL (MySQL, Oracle, SQL Server) – For relational database management.
 
 Connect with me:
-email:srikavya14085@gmail.com ||
-linkedin:https://www.linkedin.com/in/kavya-sri-a617b7252/
+email: ||
+linkedin:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]([your-instagram-link](https://www.instagram.com/kav_yah7/?hl=en))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/kavya-sri-a617b7252/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:srikavya14085@gmail.com)
 

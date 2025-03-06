@@ -51,7 +51,8 @@ I'm Java Full Stack  Developer . I am currently pursuing  B.tech .
 
 Connect with me:
 email: ||
-linkedin:
+linkedin: ||
+instagram
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/kavya-sri-a617b7252/))
 

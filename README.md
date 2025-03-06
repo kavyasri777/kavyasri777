@@ -2,8 +2,9 @@ Greetings👋, I'm kavyasri
 Java Full Stack  Developer | Ui/Ux Designer
 I'm Java Full Stack  Developer . I am currently pursuing  B.tech .
 🎓 Visit my Portfolio to learn more about my work
-🔹Technologies and Tools:
-Frontend Technologies:
+🔹## 🖥️ TOOLS AND TECHNOLOGIES 
+
+## 🖥️ Frontend Technologies 
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -16,8 +17,17 @@ Frontend Technologies:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
-
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual)
+- **HTML**   
+- **CSS**   
+- **JAVASCRIPT**
+- - **NODE.JS**   
+- **POSTMAN**   
+- **NPM**
+-  **VS CODE**   
+  
+
+
 ## 🖥️ Backend Technologies (Java & Frameworks)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)

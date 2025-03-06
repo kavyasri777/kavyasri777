@@ -18,13 +18,13 @@ I'm Java Full Stack  Developer . I am currently pursuing  B.tech .
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual)
-- **HTML**   
-- **CSS**   
-- **JAVASCRIPT**
-- - **NODE.JS**   
-- **POSTMAN**   
-- **NPM**
--  **VS CODE**   
+- **Html**   
+- **Css**   
+- **Javascript**
+- **Node.js**   
+- **Postman**   
+- **Npm**
+- **Vscode**   
   
 
 
